@@ -1,0 +1,19 @@
+Talabat: 11,323 / 14.1%
+-highest overall fail category percentage : Online Payment Failures
+-spikes in fail rates around 3-4 am, main reason was TRANSPORT Failure, being NO_COURIER as the main subreason
+
+
+Mcdonalds: 5,342 / 14.5%
+-also Online Payment Failures is the main reason for failed deliveries, BUT at has a noticably higher VENDOR failures than the other top offending chains reaching 21.63%, main subreasons were ITEM_UNAVAILABLE and VENDOR_TOO_BUSY
+-
+
+
+KFC: 3,001 / 11.7%
+
+
+
+Starbucks: 2,782 / 16.8%
+
+
+
+Bazooka: 2,649 / 18,9%
